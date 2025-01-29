@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #00010c;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #ffffff;
+  }
+  
+  .playlist {
+    max-width: 1000px;
+    margin: auto;
+    padding: 10px;
+    background: rgb(202, 212, 220);
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .song, .podcast {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background: #e3f2fd;
+  }
+  
+  .song h3, .podcast h3 {
+    margin: 5px 0;
+    color: #1976d2;
+  }
+  
+  .song p, .podcast p {
+    color: #2f225c;
+  }
+  
